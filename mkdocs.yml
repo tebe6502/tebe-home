@@ -1,0 +1,17 @@
+site_name: TeBe
+site_author: TeBe
+site_description: "HOME Page"
+site_keyword: "cross-compiler"
+
+plugins: []
+
+theme:
+    name: slate
+    hljs_languages:
+        - delphi
+
+nav:
+    - Mad-Pascal PL: mp-pl.md
+    - Mad-Pascal EN: mp-en.md
+    - Mad-Assembler PL: mads-pl.md
+    #- Mad-Assembler EN: mads-en.md
